@@ -5,7 +5,6 @@ podman run \
     -v $PWD/_site:/srv/jekyll/_site:rw \
     -e PAGES_REPO_NWO=$PWD \
     -p 4000:4000 \
-    --rm \
     --name jakebi \
     docker.io/jekyll/builder:$JEKYLL_VERSION bash -c "chmod 777 /srv/jekyll && jekyll serve"
 
