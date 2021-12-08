@@ -36,7 +36,7 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: gustavsj@outlook.com"
+  #email: gustavsj@outlook.com, jadwiga.johansson59@gmail.com
   #rss: true  # remove this line if you don't want to show an RSS link at the bottom
   #facebook: JaKeBi-Honung
   github: Gavus
@@ -114,8 +114,8 @@ footer-hover-col: "#0085A1"
 # instead of colour
 
 #navbar-img: "/assets/img/bgimage.png"
-#footer-img: "/assets/img/bgimage.png"
-#page-img: "/assets/img/bgimage.png"
+#footer-img: "/assets/img/cover.png"
+#page-img: "/assets/img/cover.png"
 
 # Suggest a colour for mobile browsers to use as the browser's theme. This is only supported by a few mobile browsers.
 #mobile-theme-col: "#0085A1"
@@ -226,7 +226,7 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      comments: true  # add comments to all blog posts
+      comments: false  # add comments to all blog posts
       social-share: true # add social media sharing buttons to all blog posts
   -
     scope:
