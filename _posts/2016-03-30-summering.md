@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Bilder tagna från Mars
-subtitle: Lite bilder
+cover-img: assets/img/cover.png
 thumbnail-img: assets/img/2016-03_1.jpg
 tags: [honung, bin, Jadwiga, Kerstin]
 comments: true

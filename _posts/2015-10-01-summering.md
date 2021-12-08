@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Summering av oktober
-subtitle: Blandat
+cover-img: assets/img/cover.png
 thumbnail-img: /assets/img/2015-10_1.jpg
 tags: [honung, bin, Jadwiga, Kerstin]
 comments: true
