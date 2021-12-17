@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Bilder tagna från Mars
+title: Bilder tagna från årets säsong
 cover-img: assets/img/cover.png
 thumbnail-img: assets/img/2016-03_1.jpg
 tags: [honung, bin, Jadwiga, Kerstin]
 comments: true
 ---
 
-Lite blandade bilder från mars 2016.
+Lite blandade bilder.
 
 ![1](/assets/img/2016-03_1.jpg)
 ![2](/assets/img/2016-03_2.jpg)
